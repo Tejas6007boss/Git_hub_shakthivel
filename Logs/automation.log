@@ -1,0 +1,22 @@
+13:09:22.233 [main] INFO  testcase.Tc_002 - *******tc-002login test case passed*******
+16:01:24.357 [main] INFO  testcase.Tc_01 - **Clicked my account link**
+16:01:25.620 [main] INFO  testcase.Tc_01 - **Providing customer details**
+16:01:26.083 [main] INFO  testcase.Tc_01 - *entered Apssword*
+16:01:27.610 [main] INFO  testcase.Tc_01 - **Validating expected message**
+16:01:29.722 [main] INFO  testcase.Tc_01 - **WebDriver closed**
+16:01:41.942 [main] INFO  testcase.Tc_002 - *******Tc-002login test case*******
+16:01:44.143 [main] INFO  testcase.Tc_002 - *******tc-002login test case passed*******
+16:04:06.570 [main] INFO  testcase.Tc_01 - **Clicked my account link**
+16:04:07.333 [main] INFO  testcase.Tc_01 - **Providing customer details**
+16:04:07.825 [main] INFO  testcase.Tc_01 - *entered Apssword*
+16:04:09.092 [main] INFO  testcase.Tc_01 - **Validating expected message**
+16:04:10.414 [main] INFO  testcase.Tc_01 - **WebDriver closed**
+16:04:21.922 [main] INFO  testcase.Tc_002 - *******Tc-002login test case*******
+16:04:23.987 [main] INFO  testcase.Tc_002 - *******tc-002login test case passed*******
+16:07:44.374 [main] INFO  testcase.Tc_01 - **Clicked my account link**
+16:07:45.436 [main] INFO  testcase.Tc_01 - **Providing customer details**
+16:07:45.953 [main] INFO  testcase.Tc_01 - *entered Apssword*
+16:07:47.409 [main] INFO  testcase.Tc_01 - **Validating expected message**
+16:07:49.804 [main] INFO  testcase.Tc_01 - **WebDriver closed**
+16:08:01.984 [main] INFO  testcase.Tc_002 - *******Tc-002login test case*******
+16:08:03.944 [main] INFO  testcase.Tc_002 - *******tc-002login test case passed*******

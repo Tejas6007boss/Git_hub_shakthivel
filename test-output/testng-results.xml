@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-25T16:07:28 IST" name="Suite" finished-at="2024-10-25T16:08:05 IST" duration-ms="36917">
+    <groups>
+      <group name="Sanity">
+        <method signature="Tc_002.verifylogin()[pri:0, instance:testcase.Tc_002@4d9e68d0]" name="verifylogin" class="testcase.Tc_002"/>
+        <method signature="Tc_01.verifyaccount()[pri:0, instance:testcase.Tc_01@333291e3]" name="verifyaccount" class="testcase.Tc_01"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2024-10-25T16:07:28 IST" name="chromeTest" finished-at="2024-10-25T16:08:05 IST" duration-ms="36917">
+      <class name="testcase.Tc_01">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.Tc_01@333291e3]" started-at="2024-10-25T16:07:28 IST" name="setup" finished-at="2024-10-25T16:07:43 IST" duration-ms="15073" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyaccount()[pri:0, instance:testcase.Tc_01@333291e3]" started-at="2024-10-25T16:07:43 IST" name="verifyaccount" finished-at="2024-10-25T16:07:47 IST" duration-ms="3902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.Tc_01@333291e3]" started-at="2024-10-25T16:07:47 IST" name="tearDown" finished-at="2024-10-25T16:07:49 IST" duration-ms="2256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tardown()[pri:0, instance:testcase.Tc_01@333291e3]" started-at="2024-10-25T16:07:49 IST" name="tardown" finished-at="2024-10-25T16:07:49 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tardown -->
+      </class> <!-- testcase.Tc_01 -->
+      <class name="testcase.Tc_002">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.Tc_002@4d9e68d0]" started-at="2024-10-25T16:07:49 IST" name="setup" finished-at="2024-10-25T16:08:01 IST" duration-ms="12174" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogin()[pri:0, instance:testcase.Tc_002@4d9e68d0]" started-at="2024-10-25T16:08:01 IST" name="verifylogin" finished-at="2024-10-25T16:08:03 IST" duration-ms="1965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="tardown()[pri:0, instance:testcase.Tc_002@4d9e68d0]" started-at="2024-10-25T16:08:03 IST" name="tardown" finished-at="2024-10-25T16:08:05 IST" duration-ms="1449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tardown -->
+      </class> <!-- testcase.Tc_002 -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
